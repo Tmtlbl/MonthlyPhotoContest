@@ -1,7 +1,7 @@
 /**
  * @file app.js
  * @description Logique applicative pour le redimensionnement et le renommage automatique
- * des candidatures du Concours Photo.
+ * des candidatures du Concours Photo. Co-créé en pair programming avec l'IA Antigravity.
  * @author Antigravity (Google DeepMind AI Assistant) & L'Utilisateur
  */
 
